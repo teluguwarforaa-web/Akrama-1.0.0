@@ -9,7 +9,7 @@ const spermImg = new Image();
 spermImg.src = "IMG_20260224_190818.jpg";
 
 const gateTop = new Image();
-gateTop.src = "gate-top.png";
+gateTop.src = "IMG_20260224_190516.jpg";
 
 const gateBottom = new Image();
 gateBottom.src = "gate-bottom.png";
