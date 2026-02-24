@@ -12,7 +12,7 @@ const gateTop = new Image();
 gateTop.src = "IMG_20260224_190527.jpg";
 
 const gateBottom = new Image();
-gateBottom.src = "gate-bottom.png";
+gateBottom.src = "IMG_20260224_190527.jpg";
 
 const bg = new Image();
 bg.src = "assets/background.png";
