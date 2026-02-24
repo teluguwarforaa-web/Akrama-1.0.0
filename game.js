@@ -6,7 +6,7 @@ canvas.height = 600;
 
 // Images
 const spermImg = new Image();
-spermImg.src = "sperm.png";
+spermImg.src = "IMG_20260224_190818.jpg";
 
 const gateTop = new Image();
 gateTop.src = "gate-top.png";
