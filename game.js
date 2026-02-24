@@ -4,6 +4,19 @@ const ctx = canvas.getContext("2d");
 canvas.width = 350;
 canvas.height = 600;
 
+// Images
+const spermImg = new Image();
+spermImg.src = "sperm.png";
+
+const gateTop = new Image();
+gateTop.src = "gate-top.png";
+
+const gateBottom = new Image();
+gateBottom.src = "gate-bottom.png";
+
+const bg = new Image();
+bg.src = "assets/background.png";
+
 // Sperm object
 let sperm = {
     x: 80,
